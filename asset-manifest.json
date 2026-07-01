@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vaishyaproject/static/css/main.e6c13ad2.css",
+    "main.js": "/Vaishyaproject/static/js/main.fbd5954e.js",
+    "static/js/453.854e2de6.chunk.js": "/Vaishyaproject/static/js/453.854e2de6.chunk.js",
+    "index.html": "/Vaishyaproject/index.html",
+    "main.e6c13ad2.css.map": "/Vaishyaproject/static/css/main.e6c13ad2.css.map",
+    "main.fbd5954e.js.map": "/Vaishyaproject/static/js/main.fbd5954e.js.map",
+    "453.854e2de6.chunk.js.map": "/Vaishyaproject/static/js/453.854e2de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fbd5954e.js"
+  ]
+}
